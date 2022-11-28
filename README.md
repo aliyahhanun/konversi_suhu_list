@@ -1,16 +1,23 @@
-# konversi_suhu_list
+# KONVERSI SUHU LIST
 
-A new Flutter project.
+Nama : Aliyah Hanun S
 
-## Getting Started
+NIM : 1941720175
 
-This project is a starting point for a Flutter application.
+Kelas : TI 3C
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 1. Tampilan Awal
+![Pertama](screenshot/pertama.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 2. Tampilan input (hanya bisa input number)
+![Kedua](screenshot/kedua.jpg)
+
+## 3. Tampilan setelah konversi celcius ke kelvin tersimpan dalam riwayat konversi
+![Ketiga](screenshot/ketiga.jpg)
+
+## 4. Tampilan setelah konversi celcius ke reamur tersimpan dalam riwayat konversi
+![Ketiga](screenshot/keempat.jpg)
+
+## 5. Tampilan setelah konversi celcius ke fahrenheit tersimpan dalam riwayat konversi
+![Ketiga](screenshot/kelima.jpg)
